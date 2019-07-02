@@ -1,5 +1,3 @@
-# Functional w/ Haskell
-
 Collection of notes and programs on functional programming with Haskell.
 
 Some are my solutions for the lecture "4010 - Fortgeschrittene Programmierung (Prof. J. Waldmann)"
