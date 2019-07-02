@@ -1,4 +1,4 @@
-# Adanced Programs
+# Functional w/ Haskell
 
 Collection of notes and programs on functional programming with Haskell.
 
